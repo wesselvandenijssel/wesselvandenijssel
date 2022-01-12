@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [wesselvandenijssel.nl](https://wesselvandenijssel.nl)
 
-- 📫 How to reach me **wesselvandenijssel@gmail.com**
+- 📫 How to reach me **info@wesselvandenijssel.nl**
 
 - 📄 Know about my experiences [wesselvandenijssel.nl](https://wesselvandenijssel.nl)
 
