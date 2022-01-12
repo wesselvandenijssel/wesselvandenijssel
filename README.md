@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wesselvandenijssel" alt="wesselvandenijssel" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](wesselvandenijssel.nl)
+- 🔭 I’m currently working on [Portfolio](https://wesselvandenijssel.nl)
 
 - 🌱 I’m currently learning **React**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **wesselvandenijssel@gmail.com**
 
-- 📄 Know about my experiences [wesselvandenijssel.nl](wesselvandenijssel.nl)
+- 📄 Know about my experiences [wesselvandenijssel.nl](https://wesselvandenijssel.nl)
 
 - ⚡ Fun fact **I am Dutch**
 
