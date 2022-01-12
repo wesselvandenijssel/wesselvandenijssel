@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wessel van den IJssel</h1>
-<h3 align="center">A Full Stack Webdeveloper</h3>
+<h3 align="center">A Full Stack Webdeveloper student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesselvandenijssel&label=Profile%20views&color=0e75b6&style=flat" alt="wesselvandenijssel" /> </p>
 
