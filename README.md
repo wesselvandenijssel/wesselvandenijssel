@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [DiscordJS](https://github.com/wesselvandenijssel/discordjs-wessel-sam)
 
-- 👨‍💻 All of my projects are available at [https://wesselvandenijssel.nl](wesselvandenijssel.nl)
+- 👨‍💻 All of my projects are available at [wesselvandenijssel.nl](https://wesselvandenijssel.nl)
 
 - 📫 How to reach me **wesselvandenijssel@gmail.com**
 
