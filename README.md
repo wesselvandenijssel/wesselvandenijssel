@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking for help with [DiscordJS](https://github.com/wesselvandenijssel/discordjs-wessel-sam)
-
 - 👨‍💻 All of my projects are available at [wesselvandenijssel.nl](https://wesselvandenijssel.nl)
 
 - 📫 How to reach me **info@wesselvandenijssel.nl**
