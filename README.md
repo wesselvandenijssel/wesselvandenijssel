@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wesselvandenijssel&label=Profile%20views&color=0e75b6&style=flat" alt="wesselvandenijssel" /> </p>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=wesselvandenijssel" alt="wesselvandenijssel" /></p>
-
 🔭 I’m currently working on [my Portfolio](https://wesselvandenijssel.nl)
 
 🌱 I’m currently learning **the latest WordPress techniques**
@@ -21,17 +19,6 @@
 <p align="left">
   <a href="https://codepen.io/wesselvandenijssel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="wesselvandenijssel" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/wessel-van-den-ijssel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wessel-van-den-ijssel" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <!-- Add more of your preferred languages and tools here -->
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesselvandenijssel&show_icons=true&locale=en&layout=compact" alt="wesselvandenijssel" /></p>
