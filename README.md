@@ -37,5 +37,3 @@ Front-end developer met een achtergrond in online marketing. Ik bouw WordPress-s
   <a href="mailto:info@wesselvandenijssel.nl">info@wesselvandenijssel.nl</a> ·
   <a href="https://linkedin.com/in/wessel-van-den-ijssel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesselvandenijssel&show_icons=true&locale=nl&layout=compact" alt="Meest gebruikte talen" /></p>
